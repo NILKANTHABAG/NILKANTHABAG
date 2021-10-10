@@ -7,7 +7,7 @@
 - 🔗https://www.linkedin.com/in/nilkantha-bag-4b58431b1/
 
 <p align="center">
-  <img src="https://github.com/AnshumanFauzdar/AnshumanFauzdar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/NILKANTHA BAG/NILKANTHA BAG/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <!---
