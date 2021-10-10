@@ -3,8 +3,12 @@
 - 🌱 I’m currently learning DataScience.
 - 💞️ I’m looking to collaborate on Machine Learning and AI.
 - 📫 How to reach me:
-- 🏢 
+- 📧Smartboynilkontha@gmail.com
+- 🔗https://www.linkedin.com/in/nilkantha-bag-4b58431b1/
 
+<p align="center">
+  <img src="https://github.com/AnshumanFauzdar/AnshumanFauzdar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <!---
 NILKANTHABAG/NILKANTHABAG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
