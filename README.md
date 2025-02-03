@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning DataScience.
 - 💞️ I’m looking to collaborate on Machine Learning and AI.
 - 📫 How to reach me:
-- 📧Smartboynilkontha@gmail.com
-- 🔗https://www.linkedin.com/in/nilkantha-bag-4b58431b1/
+- 📧Nilkanthabag5@gmail.com
+- 🔗https://www.linkedin.com/in/nilkantha-bag1/
 
 
 <p align="center">
